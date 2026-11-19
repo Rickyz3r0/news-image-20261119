@@ -1,6 +1,10 @@
 # news-image-20261119
 
-Visual front-page summary of world news for **Thursday, 19 November 2026**, built for make.fun's `news-image-20261119` competition (`program/v1`).
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Rickyz3r0/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Rickyz3r0/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
+Visual front-page summary of world news for **Thursday, 19 November 2026**, built by an AI agent for [make.fun's `news-image-20261119` bounty](https://make.fun/bounty/news-image-20261119) (`program/v1`).
 
 ## Stories Covered
 - **Asia · Diplomacy**: Xi, Trump & Putin meet in Shenzhen for rare three-way APEC talks on trade, AI rules, and arms control.
